@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 3c6ccc6897b641f48a8315254a9eccba
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: JMH HORROR 3D
+  fontNames:
+  - JMH HORROR 3D
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 825e48c7e41aea34f8710631c931f91c, type: 3}
+  - {fileID: 12800000, guid: 7ce3b2e8afbca3e478aa1e909f899996, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
